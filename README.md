@@ -1,2 +1,2 @@
 # myiptv
-https://ms-ra-forwarder-7dxwoainw-qhy5697062-gmailcom.vercel.app/
+https://tts-9fnafkc9g-qhy5697062-gmailcom.vercel.app
