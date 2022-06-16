@@ -1,4 +1,4 @@
 # myiptv
-https://tts-9fnafkc9g-qhy5697062-gmailcom.vercel.app
 
-legado://import/httpTTS?src=https://tts-9fnafkc9g-qhy5697062-gmailcom.vercel.app/api/legado?json=eyJ0dHNkYXRhIjpbeyJuYW1lIjoiJUU1JUJFJUFFJUU4JUJEJUFGJUU0JUJBJTkxJUU2JTg5JUFDIiwidm9pY2VOYW1lIjoiemgtQ04tWXVueWFuZ05ldXJhbCIsInZvaWNlRm9ybWF0IjoiYXVkaW8tMjRraHotOTZrYml0cmF0ZS1tb25vLW1wMyIsInN0eWxlTmFtZSI6Im5vcm1hbCIsInN0eWxlRGVncmVlIjoiMS4wMCIsInNwZWFrU3BlZWQiOiIyNSJ9XSwidG9rZW4iOiIiLCJ1cmwiOiJodHRwczovL3R0cy05Zm5hZmtjOWctcWh5NTY5NzA2Mi1nbWFpbGNvbS52ZXJjZWwuYXBwIn0=
+
+https://tts-5ovnqokxr-qhy5697062-gmailcom.vercel.app/api/legado?api=https://tts-5ovnqokxr-qhy5697062-gmailcom.vercel.app/api/ra&name=%E5%A4%A7%E5%A3%B0%E6%9C%97%E8%AF%BB&voiceName=zh-CN-YunyangNeural&voiceFormat=audio-24khz-48kbitrate-mono-mp3&token=
